@@ -3,6 +3,8 @@ Krishna Mohan Thirupathi — Data Analyst Portfolio
 
 A self-contained, single-page portfolio site showcasing my data analytics projects, internship experience, and technical skill set.
 
+Live site: https://Krishnamohan79.github.io/portfolio-/ (update this link once GitHub Pages is live)
+
 About
 
 I'm a recent B.Tech graduate in Artificial Intelligence and Machine Learning, currently seeking a full-time Data Analyst role. This portfolio highlights three end-to-end analytics projects and a 6-month Data Analyst internship at Rubix AI Solutions.
