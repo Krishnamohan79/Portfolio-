@@ -3,7 +3,7 @@ Krishna Mohan Thirupathi — Data Analyst Portfolio
 
 A self-contained, single-page portfolio site showcasing my data analytics projects, internship experience, and technical skill set.
 
-Live site: https://Krishnamohan79.github.io/portfolio-/ (update this link once GitHub Pages is live)
+Live site: https://https://github.com/Krishnamohan79/Portfolio-/ (update this link once GitHub Pages is live)
 
 About
 
